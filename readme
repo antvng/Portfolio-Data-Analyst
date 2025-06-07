@@ -1,0 +1,64 @@
+# 📊 Anthony Vong — Data Analyst Portfolio
+
+Bienvenue sur mon portfolio de projets en data analysis.  
+Vous trouverez ici plusieurs projets illustrant mes compétences en **Python**, **SQL**, **Power BI**, **Excel**, et **data storytelling**.
+
+---
+
+## 📁 Projets
+
+### 1. 🎮 Évolution de l’engouement Pokémon (Power BI / Python / SQL)
+
+**Problématique** : Comment l’intérêt pour Pokémon a-t-il évolué depuis sa création ?  
+**Ce que j'ai fait** :
+- Analyse des ventes de jeux vidéo Pokémon depuis 1996
+- Croisement avec tendances Google
+- Visualisation des Pokémon préférés par pays
+- Création de dashboards Power BI
+
+🔗 [Voir le projet](lien_vers_repo_pokemon)  
+📸 *Technos* : Power BI, Python (Pandas, Matplotlib), SQL
+
+---
+
+### 2. 🏅 JO Paris 2024 — Analyse des médailles et représentations (Power BI)
+
+**Problématique** : Quelle est la répartition des médailles par pays, genre, et disciplines ?  
+**Ce que j'ai fait** :
+- Nettoyage de données officielles des JO
+- Création de dashboards interactifs
+- Analyse des tendances par continent et par année
+
+🔗 [Voir le projet](lien_vers_repo_jo2024)  
+📸 *Technos* : Power BI, Excel
+
+---
+
+### 3. 📈 Taux d’intérêt VS Marché immobilier francilien (SQL / Power BI)
+
+**Problématique** : Y a-t-il un lien entre l’évolution des taux de crédit et les prix immobiliers en Île-de-France ?  
+**Ce que j'ai fait** :
+- Collecte de données sur les taux d’emprunt depuis 40 ans
+- Analyse des prix immobiliers par département
+- Représentation visuelle de la corrélation
+
+🔗 [Voir le projet](lien_vers_repo_credit_immobilier)  
+📸 *Technos* : SQL, Power BI, Excel
+
+---
+
+## 🧠 Compétences
+
+- **Langages** : Python, SQL, DAX, Power Query
+- **Outils BI** : Power BI, Tableau, Excel
+- **Autres** : Git, Jupyter Notebook, VS Code, Méthodologies Agile
+
+---
+
+## 📫 Contacts
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil)
+- 📧 vong.anthony@email.com
+- 🧠 [GitHub](https://github.com/tonprofil)
+
+---
