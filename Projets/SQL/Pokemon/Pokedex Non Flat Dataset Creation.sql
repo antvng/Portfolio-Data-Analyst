@@ -1,9 +1,9 @@
-select * from generations;
-select * from pokemon;
-select * from pokemon_specs;
-select * from pokemon_types;
-select * from stats;
-select * from types;
+-- select * from generations;
+-- select * from pokemon;
+-- select * from pokemon_specs;
+-- select * from pokemon_types;
+-- select * from stats;
+-- select * from types;
 
 -- CREATE TABLES
 
